@@ -163,7 +163,7 @@ will be updated upon publication.
 The VenusTOPT source code and bundled prediction-head weights are released
 under the [MIT License](LICENSE). PRIME and other third-party dependencies
 remain subject to their respective licenses and terms; this license does not
-relicense those components. The ES-Topt dataset is not included in this release.
+relicense those components.
 
 ## Contact
 
