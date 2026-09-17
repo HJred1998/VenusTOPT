@@ -65,6 +65,10 @@ The output CSV contains `id`, `sequence`, `length`, and `predicted_topt_c`
 (degrees Celsius), together with the original row index. Embeddings are computed
 in memory and are not saved during prediction.
 
+See [example predictions](examples/expected_predictions.csv) for the output
+corresponding to the included FASTA file, and the
+[example guide](examples/README.md) for details.
+
 For CSV input, the default columns are `id` and `sequence`:
 
 ```bash
