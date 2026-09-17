@@ -10,8 +10,7 @@ The associated study introduces **ES-Topt**, an evidence-supported dataset
 curated from primary literature, and demonstrates temperature-guided
 endoglucanase mining with experimental validation.
 
-The manuscript is currently under review. **The dataset is not included in this
-repository at this stage.** Dataset availability will be updated separately.
+The manuscript is currently under review. 
 
 ## Highlights
 
