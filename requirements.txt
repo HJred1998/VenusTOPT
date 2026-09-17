@@ -1,0 +1,9 @@
+# Python 3.10. Select the CPU or CUDA PyTorch build before installing this file.
+# See docs/installation.md for complete installation commands.
+torch==2.7.1
+transformers==4.48.1
+tokenizers==0.21.4
+huggingface-hub==0.36.2
+safetensors==0.5.3
+numpy==1.26.4
+scipy==1.15.3

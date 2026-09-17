@@ -1,0 +1,34 @@
+{
+  "config.json": {
+    "sha256": "394ba1914d954ef02c93ba60d788a265b233b566571db8f70f4dcd561d0d9f1d",
+    "bytes": 894
+  },
+  "model.safetensors": {
+    "sha256": "33c732ac89d871c8ec6ed53f710e03241c251865c52670f50ce7ae57d6293071",
+    "bytes": 2676905476
+  },
+  "configuration_proprime.py": {
+    "sha256": "8eee818ea78d6947ec0d6faa974699b6d0f2be473f9c30d997386efa1e8206f9",
+    "bytes": 1849
+  },
+  "modeling_proprime.py": {
+    "sha256": "932f7ce9775cebfd688ba336a1cbb9b0529bd84805cae698f859b54b8da0ef58",
+    "bytes": 51319
+  },
+  "tokenization_proprime.py": {
+    "sha256": "2bbae9b25467af44340309296eed7065be21c68eff6f4d4a95efc38897f5761e",
+    "bytes": 4921
+  },
+  "tokenizer_config.json": {
+    "sha256": "ab32f553d6c0ec054bde2f4f5611ccf6788f8fb36094d853ded059d4e17097ab",
+    "bytes": 1241
+  },
+  "special_tokens_map.json": {
+    "sha256": "ec238abb92937a5407915f955ca727c53f368db719b04a4dfb49e9c94e51d582",
+    "bytes": 695
+  },
+  "vocab.txt": {
+    "sha256": "0b82cc0a7c7cf9e567b1e5892d793285b9fbae822c964ca48696f7db44598e03",
+    "bytes": 93
+  }
+}

@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+.venv/
+.env
+.pytest_cache/
+*.zip
+.DS_Store
+outputs/
+embeddings/
+prime_weights/
+data/private/
+*.log
+*.partial.csv

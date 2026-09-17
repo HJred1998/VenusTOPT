@@ -1,0 +1,15 @@
+{
+  "model_name": "VenusTOPT",
+  "input_dim": 1280,
+  "hidden_dim": 320,
+  "num_queries": 4,
+  "num_heads": 8,
+  "ffn_multiplier": 4,
+  "motif_scales": [[32, 16], [64, 32], [128, 64]],
+  "cross_attention_layers": 1,
+  "head_hidden_dim": 512,
+  "head_layers": 2,
+  "dropout": 0.1,
+  "target_mean": 49.79074478149414,
+  "target_std": 17.983314514160156
+}

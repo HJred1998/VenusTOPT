@@ -1,0 +1,14 @@
+{
+  "seed": 146,
+  "batch_size": 48,
+  "epochs": 250,
+  "learning_rate": 0.0003,
+  "weight_decay": 0.0003,
+  "smooth_l1_beta": 0.2,
+  "gradient_clip_norm": 1.0,
+  "validation_fraction": 0.1,
+  "validation_seed": 0,
+  "checkpoint_start_epoch": 15,
+  "early_stopping_patience": 45,
+  "sampler_temperature_bounds": [37.0, 55.0, 70.0]
+}
